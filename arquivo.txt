@@ -1,14 +1,8 @@
 <stdio.h>
 main ()
 {
-<<<<<<< HEAD
 	printf("AAAAAAAAAAAAA\n");
-=======
-
 	printf("\nMello mundão"\n);
-
 	printf("Salve mundão\n");
-
->>>>>>> 61da01769c944501d0d1e201e2359f214fcef681
 	return 0;
 }
