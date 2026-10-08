@@ -1,6 +1,6 @@
 <stdio.h>
 main ()
 {
-	printf("Mello mundão"\n);
+	printf("Mello mundão\n");
 	return 0;
 }
